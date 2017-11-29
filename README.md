@@ -2,7 +2,7 @@
 
 An Arduino IDE library around the Telegram Bot API to be used with ESP8266.
 
-Application written by [Giancarlo Bacchio](https://github.com/Gianbacchio)
+Application written by [Giancarlo Bacchio](https://github.com/Gianbacchio);;;;
 
 
 ## Introduction
